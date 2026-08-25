@@ -20,5 +20,5 @@ Ratings for each unit type. Always confirm against the label on the unit itself 
 ## Notes
 
 - Peak current is drawn for up to three seconds at power-up. Size the supply for peak, not nominal.
-- Fuse ratings are minimums. Do not fit a lower-rated fuse.
+- Fuse ratings are minimum-values. Do not fit a lower-rated fuse.
 - Units marked X require the extended-range power supply. The standard supply will trip on start-up.
