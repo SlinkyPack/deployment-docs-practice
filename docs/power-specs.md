@@ -1,5 +1,5 @@
 # Power Specifications
-
+>בדיקה ראשונה לעדכון מאושר
 Ratings for each unit type. Always confirm against the label on the unit itself — the label wins if they disagree.
 
 ## Standard units
